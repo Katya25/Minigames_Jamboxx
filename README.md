@@ -2,11 +2,11 @@
 UCL project
 ## **Demonstration**
 
-- **Virtual Instrument**:
+- **Interface**:
 
-  - *Virtual piano* (Author: Wesley Xu)
+  - *Main menu* (Author: Wesley Xu)
     -![My Image](images/Screen1.png)
-  - *Virtual piano* (Author: Wesley Xu)
+  - *Note recognition by sound* (Author: Wesley Xu)
     -![My Image](images/Screen2.png)
   - *Virtual piano* (Author: Wesley Xu)
     -![My Image](images/Screen3.png)
